@@ -1,0 +1,9 @@
+[package]
+name = "sanguine"
+version = "1.0"
+authors = ["ortho 'the d' stice <ortho.the.d.stice@gmail.com>"]
+description = "Sanger sequence fwd + rev merger with support for Phred quality scores"
+
+[dependencies]
+bio = "0.22"
+clap = "2.32"
